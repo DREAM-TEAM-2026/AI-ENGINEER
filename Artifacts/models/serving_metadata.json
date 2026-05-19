@@ -1,0 +1,5 @@
+{
+  "model_path": "..\\artifacts\\models\\coverage_ranker.keras",
+  "vocab_path": "..\\data\\ingredient_vocab.json",
+  "recipe_path": "..\\data\\recipes.json"
+}

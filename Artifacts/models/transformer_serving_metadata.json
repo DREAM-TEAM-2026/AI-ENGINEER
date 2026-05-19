@@ -1,0 +1,8 @@
+{
+  "model_path": "..\\artifacts\\models\\ingredient_transformer.keras",
+  "savedmodel_path": "..\\artifacts\\models\\ingredient_transformer_savedmodel",
+  "vocab_path": "..\\data\\ingredient_vocab.json",
+  "recipe_path": "..\\data\\recipes.json",
+  "max_seq_len": 20,
+  "vocab_size": 14484
+}
