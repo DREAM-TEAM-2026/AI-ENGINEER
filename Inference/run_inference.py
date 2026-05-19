@@ -79,7 +79,7 @@ def _load_model(model_path: Path):
                 model_path,
                 custom_objects={
                     "IngredientEmbeddingLayer": IngredientEmbeddingLayer,
-                    "CoveragePairwiseLoss": CoveragePairwiseLoss,
+                    "CoverageRankingLoss": CoverageRankingLoss,
                 },
                 compile=False,
                 safe_mode=False,
