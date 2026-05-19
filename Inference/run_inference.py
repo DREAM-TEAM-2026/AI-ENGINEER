@@ -1,7 +1,7 @@
 """
-  python -m scripts.run_inference recommend --ingredients "chicken,rice,garlic,onion"
-  python -m scripts.run_inference mealplan  --ingredients "chicken,rice,garlic,onion" --calories 2000
-  python -m scripts.run_inference mealplan  --ingredients "egg,milk,flour,butter" --max-minutes 45
+  python -m Inference.run_inference recommend --ingredients "chicken,rice,garlic,onion"
+  python -m Inference.run_inference mealplan  --ingredients "chicken,rice,garlic,onion" --calories 2000
+  python -m Inference.run_inference mealplan  --ingredients "egg,milk,flour,butter" --max-minutes 45
 """
 from __future__ import annotations
 
