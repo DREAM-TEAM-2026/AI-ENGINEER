@@ -1,0 +1,5 @@
+ingredient_vocab.json
+recipes.json
+__pycache__/
+*.pyc
+*.pyo
